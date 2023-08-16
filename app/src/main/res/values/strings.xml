@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiCall Demo</string>
+    <string name="head_main">Movie List</string>
+</resources>
